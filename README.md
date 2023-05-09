@@ -1,3 +1,11 @@
+#Home Page 
+![image](https://github.com/apurvpatil18/simple-temperature-control-app/assets/98873382/774b4f44-e9c2-4fe9-bb33-19edebc56868)
+
+# Home Page : Increased Temperature
+![image](https://github.com/apurvpatil18/simple-temperature-control-app/assets/98873382/a17628dd-8145-4c4f-8706-ec6460d6d843)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
